@@ -1,0 +1,5 @@
+opencv-python
+imutils
+tensorflow
+deepface
+pandas
